@@ -1,8 +1,11 @@
+http://www.m1ng.top/2020/03/23/%E7%A7%92%E6%9D%80%E4%B8%9A%E5%8A%A1%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0(%E4%B8%80)/
+
+↑建议通过上面的地址进行了解，以获得更好地阅读体验↑
+
 学习项目旨在调通一个秒杀业务后台的最基本开发构建。<!-- more -->
 
 本篇采用SSM+MySQL+Redis。后序会另起新篇从<u>框架方面进行重构</u>和<u>业务性能方面进行优化</u>。
-
-本文项目源码上传[github](https://github.com/Jerrymouse1998/seckill)： https://github.com/Jerrymouse1998/seckill  
+  
 
 ## 开发环境
 
